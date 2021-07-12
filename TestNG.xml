@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="First Maven Project">
+<parameter name="browser" value="chrome"/>
+    <test name="Regression">
+         <classes>
+             <class name="com.FirstMavenProject.testcases.TC1_Login"/>
+         </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
