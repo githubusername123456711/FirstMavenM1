@@ -159,4 +159,12 @@
  2021-07-12 16:34:14,856  INFO [main] FirstMavenProjectV1:23 - login button clicked
  2021-07-12 16:34:14,857  INFO [main] FirstMavenProjectV1:24 - Validating if login is successful or not
  2021-07-12 16:34:14,878  INFO [main] FirstMavenProjectV1:27 - Passed
+ 2021-07-13 10:21:22,845  INFO [main] FirstMavenProjectV1:41 - Browser is launched and navigated to Website
+ 2021-07-13 10:21:22,861  INFO [main] FirstMavenProjectV1:15 - Entering User Name
+ 2021-07-13 10:21:22,961  INFO [main] FirstMavenProjectV1:17 - User Name entered
+ 2021-07-13 10:21:22,961  INFO [main] FirstMavenProjectV1:18 - Entering Password
+ 2021-07-13 10:21:23,027  INFO [main] FirstMavenProjectV1:20 - Password entered
+ 2021-07-13 10:21:29,251  INFO [main] FirstMavenProjectV1:23 - login button clicked
+ 2021-07-13 10:21:29,251  INFO [main] FirstMavenProjectV1:24 - Validating if login is successful or not
+ 2021-07-13 10:21:29,258  INFO [main] FirstMavenProjectV1:27 - Passed
  

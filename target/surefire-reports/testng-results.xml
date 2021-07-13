@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-12T16:34:02 IST" name="First Maven Project" finished-at="2021-07-12T16:34:14 IST" duration-ms="12536">
+  <suite started-at="2021-07-13T10:21:17 IST" name="First Maven Project" finished-at="2021-07-13T10:21:29 IST" duration-ms="11439">
     <groups>
     </groups>
-    <test started-at="2021-07-12T16:34:02 IST" name="Regression" finished-at="2021-07-12T16:34:14 IST" duration-ms="12536">
+    <test started-at="2021-07-13T10:21:17 IST" name="Regression" finished-at="2021-07-13T10:21:29 IST" duration-ms="11439">
       <class name="com.FirstMavenProject.testcases.TC1_Login">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@1613674b]" started-at="2021-07-12T16:34:02 IST" name="setup" finished-at="2021-07-12T16:34:08 IST" duration-ms="5949" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@5ace1ed4]" started-at="2021-07-13T10:21:17 IST" name="setup" finished-at="2021-07-13T10:21:22 IST" duration-ms="4962" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogin()[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@1613674b]" started-at="2021-07-12T16:34:08 IST" name="testLogin" finished-at="2021-07-12T16:34:14 IST" duration-ms="6488" status="PASS">
+        <test-method signature="testLogin()[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@5ace1ed4]" started-at="2021-07-13T10:21:22 IST" name="testLogin" finished-at="2021-07-13T10:21:29 IST" duration-ms="6405" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@1613674b]" started-at="2021-07-12T16:34:14 IST" name="teardown" finished-at="2021-07-12T16:34:14 IST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.FirstMavenProject.testcases.TC1_Login@5ace1ed4]" started-at="2021-07-13T10:21:29 IST" name="teardown" finished-at="2021-07-13T10:21:29 IST" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
